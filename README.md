@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Nilziane Barbosa
 
-- 🌱 I’m currently learning JavaScript
-
 <br></br>
 
  <div >  
